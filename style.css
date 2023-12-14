@@ -1,0 +1,56 @@
+* {
+    font-family:'Overpass', sans-serif;
+    font-weight: 700;
+}
+
+html, body {
+    height: 100%;
+    
+}
+
+.form-container{
+    max-width: 500px;
+    padding: 1rem;
+}
+
+.redefinir-senha {
+    font-size: 0.9rem;
+}
+
+.entrar-com {
+    font-size: 1rem;
+    color: rgb(13, 110, 253);
+}
+
+.form-social {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.nao-possui-conta {
+    color: rgb(13, 110, 253);
+    
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 5rem 20rem;
+    text-align: center;
+}
+
+.register-container{
+    max-width: 500px;
+    padding: 1rem;
+}
+
+.register-tittle {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.politica-privacidade {
+    font-size: 0.7rem;
+    font-weight: bold;
+    text-align: center;
+}
